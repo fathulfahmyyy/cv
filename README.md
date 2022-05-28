@@ -1,1 +1,2 @@
-# fathul's first fully html written cv
+# Link to page
+# https://fathulfahmyyy.github.io/cv/
