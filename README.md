@@ -1,2 +1,1 @@
-Link to page
-https://fathulfahmyyy.github.io/cv
+Link to page: https://fathulfahmyyy.github.io/cv
